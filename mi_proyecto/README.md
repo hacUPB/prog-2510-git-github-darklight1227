@@ -16,6 +16,6 @@ El proyecto fue relativamente sencillo, solamente un par de veces ocurrio una co
 ###### Imagenes del proceso
 
 ![Imagen de la creacion del archivo py](./images/creacion_python.PNG)
-![Imagen de la creacion de las carpetas](.images/carpetas.jpg)
+![Imagen de la creacion de las carpetas](./images/carpetas.jpg)
 ![Imagen de cuando se realizaron las respuestas](./images/respuestas.jpg)
 
