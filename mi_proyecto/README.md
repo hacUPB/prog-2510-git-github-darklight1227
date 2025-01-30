@@ -15,7 +15,7 @@ El proyecto fue relativamente sencillo, solamente un par de veces ocurrio una co
 
 ###### Imagenes del proceso
 
-[Imagen de la creacion del archivo py]("https://github.com/hacUPB/prog-2510-git-github-darklight1227/blob/main/mi_proyecto/images/creacion_python.PNG")
-[Imagen de la creacion de las carpetas]("https://github.com/hacUPB/prog-2510-git-github-darklight1227/blob/main/mi_proyecto/images/carpetas.jpg")
-[Imagen de cuando se realizaron las respuestas]("https://github.com/hacUPB/prog-2510-git-github-darklight1227/blob/main/mi_proyecto/images/respuestas.jpg")
+##### Archivo [Imagen de la creacion del archivo py]("https://github.com/hacUPB/prog-2510-git-github-darklight1227/blob/main/mi_proyecto/images/creacion_python.PNG")
+##### Carpetas[Imagen de la creacion de las carpetas]("https://github.com/hacUPB/prog-2510-git-github-darklight1227/blob/main/mi_proyecto/images/carpetas.jpg")
+##### Respuestas [Imagen de cuando se realizaron las respuestas]("https://github.com/hacUPB/prog-2510-git-github-darklight1227/blob/main/mi_proyecto/images/respuestas.jpg")
 
