@@ -1,9 +1,10 @@
-# El proyecto fue relativamente sencillo, solamente un par de veces ocurrio una confusion respecto al git status la cual termine comprendiendo despues
+# Proyecto de programacion 
+El proyecto fue relativamente sencillo, solamente un par de veces ocurrio una confusion respecto al git status la cual termine comprendiendo despues
 
-:smile: Para clonar el proyecto inicie sesion en github y posterior a esto copie el link desde la pagina web para luego usar el comando git clone ( link ) y que se clonara el repositorio.
-## Para ejecutarlo tuve que instalar un par de aplicaciones que no tenia como github cli para iniciar sesion y demás cosas con el visual studio code
+ Para clonar el proyecto inicie sesion en github y posterior a esto copie el link desde la pagina web para luego usar el comando git clone ( link ) y que se clonara el repositorio.
+ Para ejecutarlo tuve que instalar un par de aplicaciones que no tenia como github cli para iniciar sesion y demás cosas con el visual studio code
 
-| Link a las explicaciones de la carpeta docs
+| Link a las explicaciones de la carpeta docs :smile: :smile: 
 |------------------------------------------------------------------------------------------------------------------------------------|
 | [Repositorio local](https://github.com/hacUPB/prog-2510-git-github-darklight1227/blob/main/mi_proyecto/docs/repositorio_local.md)  | 
 |------------------------------------------------------------------------------------------------------------------------------------| 
