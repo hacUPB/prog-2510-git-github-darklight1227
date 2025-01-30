@@ -11,4 +11,11 @@ El proyecto fue relativamente sencillo, solamente un par de veces ocurrio una co
 | [Repositorio remoto](https://github.com/hacUPB/prog-2510-git-github-darklight1227/blob/main/mi_proyecto/docs/repositorio_remoto.md)| 
 |------------------------------------------------------------------------------------------------------------------------------------| 
 | [Uso de la consola](https://github.com/hacUPB/prog-2510-git-github-darklight1227/blob/main/mi_proyecto/docs/uso_consola.md)        |
-|------------------------------------------------------------------------------------------------------------------------------------| 
+|------------------------------------------------------------------------------------------------------------------------------------|
+
+###### Imagenes del proceso
+
+[Imagen de la creacion del archivo py]("mi_proyecto/images/creacion_python.PNG")
+[Imagen de la creacion de las carpetas]("mi_proyecto/images/carpetas.jpg")
+[Imagen de cuando se realizaron las respuestas]("mi_proyecto/images/respuestas.jpg")
+
